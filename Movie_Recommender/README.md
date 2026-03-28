@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System (Content-Based)
+#  Movie Recommender System (Content-Based)
 
 Can data predict your next favorite movie? This project implements a recommendation engine that suggests movies similar to a user's choice by analyzing metadata like genres, keywords, cast, and crew using Natural Language Processing (NLP).
 
